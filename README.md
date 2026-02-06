@@ -19,6 +19,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/demisewt21/DSA/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/demisewt21/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2413-smallest-even-multiple](https://github.com/demisewt21/DSA/tree/master/2413-smallest-even-multiple) |
 ## Simulation
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/demisewt21/DSA/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/demisewt21/DSA/tree/master/2413-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
