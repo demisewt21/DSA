@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/demisewt21/DSA/tree/master/0258-add-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/demisewt21/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
